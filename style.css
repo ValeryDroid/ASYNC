@@ -1,0 +1,13 @@
+body {
+    font-family: "Cormorant", serif;
+    text-align: center;
+}
+.product {
+    border: 1px solid;
+    padding: 15px;
+    margin: 8px;
+    color: aqua;
+}
+.form {
+    margin: 25px 0;
+}
